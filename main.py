@@ -102,7 +102,7 @@ class PrincipalBD:
         self.btnCadastrar.place(relx=0.24, rely=0.8, relwidth=0.125)
         self.btnExcluir.place(relx=0.37, rely=0.8, relwidth=0.125)
         self.btnLimpar.place(relx=0.50, rely=0.8, relwidth=0.125)
-        self.btnPesquisar.place(relx=0.60, rely=0.14)
+        self.btnPesquisar.place(relx=0.785, rely=0.139, height=23)
 
         self.treeProdutos.place(relx=0.24, rely=0.36,
                                 relheight=0.40, relwidth=0.4)
